@@ -1,0 +1,17 @@
+{
+  "name": "realtimemarkdownviewer",
+  "version": "1.0.0",
+  "description": "An app that lets us view the raw Markdown on the left side and the rendered HTML markup on the right side.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rushabh Mahwarkar",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
