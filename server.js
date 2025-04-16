@@ -1,5 +1,7 @@
 import express from 'express';
 import path from 'path';
+import sharedb from 'sharedb';
+import redis from 'redis';
 
 const app = express();
 
